@@ -1,0 +1,187 @@
+:root {
+    --bg: #eef2ff;
+    --card-bg: rgba(255, 255, 255, 0.85);
+    --text: #111827;
+    --muted: #6b7280;
+    --primary: #6366f1;
+    --shadow: rgba(0, 0, 0, 0.15);
+}
+
+body.dark {
+    --bg: #0f172a;
+    --card-bg: rgba(30, 41, 59, 0.9);
+    --text: #f9fafb;
+    --muted: #9ca3af;
+    --primary: #818cf8;
+    --shadow: rgba(0, 0, 0, 0.5);
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--bg);
+    overflow-x: hidden;
+}
+
+.emoji-bg {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.emoji-bg span {
+    position: absolute;
+    font-size: 40px;
+    opacity: 0.15;
+    animation: float 18s infinite linear;
+}
+
+.emoji-bg span:nth-child(1) { left: 10%; animation-delay: 0s; }
+.emoji-bg span:nth-child(2) { left: 20%; animation-delay: 4s; }
+.emoji-bg span:nth-child(3) { left: 35%; animation-delay: 8s; }
+.emoji-bg span:nth-child(4) { left: 50%; animation-delay: 12s; }
+.emoji-bg span:nth-child(5) { left: 65%; animation-delay: 6s; }
+.emoji-bg span:nth-child(6) { left: 75%; animation-delay: 10s; }
+.emoji-bg span:nth-child(7) { left: 85%; animation-delay: 2s; }
+.emoji-bg span:nth-child(8) { left: 15%; animation-delay: 14s; }
+.emoji-bg span:nth-child(9) { left: 45%; animation-delay: 7s; }
+.emoji-bg span:nth-child(10) { left: 70%; animation-delay: 11s; }
+
+@keyframes float {
+    0% {
+        bottom: -50px;
+        transform: translateX(0);
+    }
+    100% {
+        bottom: 110%;
+        transform: translateX(40px);
+    }
+}
+
+.theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    border: none;
+    border-radius: 50%;
+    font-size: 22px;
+    padding: 10px 14px;
+    cursor: pointer;
+    background: var(--card-bg);
+    box-shadow: 0 6px 20px var(--shadow);
+    z-index: 5;
+}
+
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 15px;
+    position: relative;
+    z-index: 2;
+}
+
+
+.glass-card {
+    width: 100%;
+    max-width: 750px;
+    background: var(--card-bg);
+    backdrop-filter: blur(14px);
+    border-radius: 18px;
+    padding: 35px;
+    box-shadow: 0 30px 80px var(--shadow);
+    animation: fadeIn 0.6s ease;
+}
+
+h1 {
+    text-align: center;
+    color: var(--text);
+}
+
+.subtitle {
+    text-align: center;
+    color: var(--muted);
+    margin-bottom: 25px;
+}
+
+textarea {
+    width: 100%;
+    height: 120px;
+    border-radius: 12px;
+    border: 1px solid #d1d5db;
+    padding: 14px;
+    font-size: 16px;
+    background: transparent;
+    color: var(--text);
+}
+
+textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+}
+
+.extract-btn {
+    width: 100%;
+    margin-top: 18px;
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, var(--primary), #4f46e5);
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s;
+}
+
+.extract-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px rgba(79,70,229,0.4);
+}
+
+.hidden {
+    display: none;
+}
+
+#results {
+    margin-top: 30px;
+    animation: fadeUp 0.4s ease;
+}
+
+.ingredient-card {
+    background: rgba(255,255,255,0.7);
+    border-left: 6px solid var(--primary);
+    padding: 14px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    color: var(--text);
+}
+
+body.dark .ingredient-card {
+    background: rgba(30,41,59,0.9);
+}
+
+
+pre {
+    background: #020617;
+    color: #e5e7eb;
+    padding: 16px;
+    border-radius: 12px;
+    overflow-x: auto;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fadeUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+}

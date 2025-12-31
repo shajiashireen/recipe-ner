@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Recipe Ingredient Extractor</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- Floating background emojis -->
+<div class="emoji-bg">
+    <span>🍕</span><span>🥦</span><span>🍎</span><span>🍞</span>
+    <span>🥕</span><span>🍗</span><span>🍚</span><span>🧄</span>
+    <span>🧀</span><span>🍅</span>
+</div>
+
+<button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+
+<div class="app-container">
+    <div class="glass-card">
+
+        <h1> Recipe Ingredient Extractor</h1>
+        <p class="subtitle">
+            Convert recipe text into structured ingredients using AI
+        </p>
+
+        <textarea id="recipe" placeholder="Example: Add 2 cups rice and 1 tsp salt"></textarea>
+
+        <button class="extract-btn" onclick="extractIngredients()">
+            Extract Ingredients
+        </button>
+
+        <div id="results" class="hidden">
+
+            <h2>Extracted Ingredients</h2>
+            <div id="ingredientCards"></div>
+
+            <h2>Structured JSON Output</h2>
+            <pre id="jsonOutput"></pre>
+
+        </div>
+
+    </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
