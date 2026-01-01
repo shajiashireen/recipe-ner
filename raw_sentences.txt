@@ -1,150 +1,128 @@
-Add 200 grams passion fruit
-Add 2 ml cava
-Add 3 grams achiote powder
-Add 3 tbsp walnut pieces
-Add ½ cups cappuccino
-Add 2 grams quick cooking brown rice
-Add 200 grams heinz tomato ketchup
-Add 2 ml gyoza
-Add ½ ml tamari tamari
-Add 1 tbsp mint chocolate chip ice cream
-Add 2 tsp reduced fat mayonnaise
-Add 3 tbsp ramen noodles seasoning
-Add 2 grams chunky salsa
-Add 1 tbsp sauce mix
-Add ½ tbsp roma tomatoes
-Add 200 grams petrale sole
-Add ½ grams cocoa powder
-Add 2 cup yellow corn
-Add ½ tbsp sweet corn
-Add ½ tsp soft-shell clams
-Add ½ grams sweet bean paste
-Add 3 grams nonfat powdered milk
-Add ½ cup kraft grated parmesan cheese
-Add 2 tbsp cress
-Add 200 tbsp leg quarters
-Add 3 grams dry vermouth
-Add 200 tsp instant oats
-Add 200 cups parsley flakes
-Add 200 cups ranch-style seasoning
-Add 2 grams cinnamon graham crackers
-Add 200 ml au jus gravy
-Add ½ tbsp samphire
-Add 1 grams lime rind
-Add ½ cup round loaf
-Add 200 cup sargentoâ® traditional cut shredded 4 cheese mexican
-Add 1 cups honeydew
-Add 2 grams diced mushrooms
-Add ½ grams ragu golden veggie fettuccine pasta
-Add ½ grams radicchio
-Add 2 cups spinach leaves
-Add ½ cup taco bell home originals
-Add 3 tsp chocolate chunks
-Add 1 tsp powdered buttermilk
-Add ½ grams whole wheat pita rounds
-Add 200 ml italian eggplant
-Add 1 grams malt syrup
-Add 1 cups green leaf lettuce
-Add 200 grams coffee low-fat frozen yogurt
-Add 200 ml maltose
-Add 2 cup dried soba
-Add 1 cup carrots
-Add 200 cups matzos
-Add 2 tbsp skinless mahi mahi fillets
-Add 2 ml ground chicken
-Add 1 grams jujube
-Add 1 grams fish bones
-Add ½ tsp pita chips
-Add 3 tsp chicken soup base
-Add 2 cup green onion bottoms
-Add 2 cup frozen basil
-Add ½ grams romano cheese
-Add 200 tsp ahi
-Add 1 cups sweet soy
-Add ½ grams crumbled ricotta salata cheese
-Add 200 cup deep dish pie crust
-Add 200 cups vegan bouillon cubes
-Add ½ cups savoy cabbage
-Add ½ cups cola soft drink
-Add 200 grams yam bean
-Add 3 cups nacho cheese tortilla chips
-Add 2 cup wish-bone italian dressing
-Add 3 tsp shaved parmesan cheese
-Add ½ grams bertolli organic tradit sauc
-Add 200 tsp tortellini
-Add 2 cups duck drippings
-Add 200 cups marzipan
-Add 200 cups garlic herb feta
-Add 1 cup giant white beans
-Add 200 cup pane di casa
-Add 3 tbsp low-fat feta
-Add 200 cup yellow tomato
-Add 200 ml red potato
-Add ½ grams langoustines
-Add 2 cups white vermouth
-Add ½ tbsp cornbread stuffing mix
-Add ½ ml light brown muscavado sugar
-Add 2 grams salted fish
-Add 2 ml steel-cut oatmeal
-Add 3 grams mccormickâ® pure vanilla extract
-Add 1 tsp bone-in pork chops
-Add ½ ml reduced sodium teriyaki sauce
-Add ½ tbsp prosecco
-Add 200 cups grated lemon peel
-Add 200 tsp gluten free vanilla extract
-Add 1 cup turkey breast tenderloins
-Add 1 cups aloe juice
-Add 200 tsp cucumber
-Add 2 cups broiler-fryers
-Add ½ cups bacardiâ® superior
-Add 3 grams pork ribs
-Add 2 ml rice paper
-Add 1 tsp wing sauce
-Add 1 grams sultana
-Add 1 tsp genoise
-Add 200 grams japanese breadcrumbs
-Add 200 tsp green cardamom
-Add 200 tbsp pure olive oil
-Add ½ ml dried apple rings
-Add 200 grams preserves
-Add 2 cup coleslaw dressing
-Add 2 ml caster
-Add ½ ml baby beets
-Add ½ tsp garlic chili sauce
-Add 3 ml white rice flour
-Add 200 tsp thin rice stick noodles
-Add 3 cups feta cheese
-Add ½ tbsp cured chorizo
-Add 1 cup beef tenderloin steaks
-Add ½ grams asian rice noodles
-Add ½ cup kung pao sauce
-Add 1 ml virginia ham
-Add ½ cups fresh lime
-Add 200 tsp codfish
-Add 1 ml low sodium diced tomatoes
-Add 3 grams guajillo
-Add 3 tbsp slivered almonds
-Add 1 cups burdock
-Add ½ ml dried tomatoes
-Add 3 tbsp fresh marjoram
-Add 200 ml bean sauce
-Add 2 cup good seasons italian dressing mix
-Add 2 cups duck drumsticks
-Add 1 cup tabasco green pepper sauce
-Add ½ cups paste tomato
-Add 200 tsp spot prawns
-Add 200 tsp lavender
-Add 2 tsp sweetened condensed milk
-Add ½ cup orange segments
-Add ½ grams black truffle oil
-Add ½ tbsp chuck steaks
-Add 3 grams maraschino
-Add 3 tsp chilcostle chile
-Add ½ tsp nuoc cham
-Add 3 tbsp mooli
-Add ½ cup chicken egg
-Add ½ grams crab boil
-Add ½ cup butter extract
-Add 2 tbsp caraway
-Add 1 tbsp irish oats
-Add 3 grams anasazi beans
+200 grams rice
+3 tbsp olive oil
+1 tsp salt
+2 cloves garlic
+1 cup chopped onion
+200 ml milk
+1 tbsp butter
+2 tsp sugar
+1 cup all-purpose flour
+3 eggs
+250 grams chicken
+1 tbsp ginger paste
+1 tbsp garlic paste
+2 tsp chili powder
+1 tsp turmeric
+1 tsp cumin seeds
+1 cup tomato puree
+2 tbsp coriander leaves
+500 ml water
+1 tbsp soy sauce
+2 tbsp vinegar
+1 cup noodles
+1 tbsp sesame oil
+100 grams mushrooms
+1 cup bell peppers
+1 tsp black pepper
+1 tbsp lemon juice
+200 grams potatoes
+1 cup carrots
+2 tbsp yogurt
+1 tsp garam masala
+3 tbsp cooking oil
+150 grams paneer
+1 cup green peas
+2 tsp mustard seeds
+1 tbsp curry leaves
+1 cup coconut milk
+250 grams fish
+1 tsp paprika
+2 tbsp honey
+1 cup oats
+200 grams tofu
+1 tbsp peanut butter
+1 tsp vanilla essence
+1 cup brown sugar
+3 tbsp cocoa powder
+250 ml cream
+1 tsp baking powder
+1 tsp baking soda
+2 cups spinach
+1 cup corn kernels
+1 tbsp chili sauce
+1 tsp vinegar
+2 tbsp tomato ketchup
+1 cup basmati rice
+1 tsp saffron
+200 grams lamb
+1 tbsp rosemary
+1 tbsp thyme
+1 cup breadcrumbs
+2 tbsp parmesan cheese
+1 cup mozzarella cheese
+1 tsp oregano
+2 tbsp olive tapenade
+1 cup chickpeas
+1 tbsp tahini
+1 tsp cumin powder
+1 cup lentils
+2 tbsp coconut oil
+1 tsp cardamom
+1 cup yogurt
+200 grams shrimp
+1 tbsp fish sauce
+1 tsp lime juice
+1 cup quinoa
+2 tbsp maple syrup
+1 tsp cinnamon
+1 cup strawberries
+1 tbsp chia seeds
+200 grams beef
+1 tsp black salt
+1 tbsp mint paste
+1 cup blueberries
+2 tbsp sunflower oil
+1 tsp nutmeg
+1 cup pineapple
+200 grams pork
+1 tbsp hoisin sauce
+1 tsp sesame seeds
+1 cup cabbage
+2 tbsp soy paste
+1 tsp white pepper
+1 cup broccoli
+1 tbsp oyster sauce
+200 grams prawns
+1 tsp chili flakes
+1 cup zucchini
+2 tbsp basil pesto
+1 tsp fennel seeds
+1 cup apple slices
+200 grams turkey
+1 tbsp barbecue sauce
+1 tsp mustard powder
+1 cup kale
+2 tbsp olive spread
+1 tsp anise
+1 cup mango pulp
+200 grams salmon
+1 tbsp teriyaki sauce
+1 tsp wasabi
+1 cup lettuce
+2 tbsp ranch dressing
+1 tsp garlic powder
+1 cup pumpkin
+200 grams duck
+1 tbsp hoisin glaze
+1 tsp five spice
+1 cup cucumber
+2 tbsp sour cream
+1 tsp onion powder
+1 cup pear slices
+200 grams sausage
+1 tbsp chili paste
+1 tsp sumac
+1 cup beetroot
+2 tbsp mayonnaise
+1 tsp star anise
+1 cup avocado

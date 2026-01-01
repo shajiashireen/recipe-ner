@@ -2,6 +2,10 @@ function toggleTheme() {
     document.body.classList.toggle("dark");
 }
 
+function toggleTheme() {
+    document.body.classList.toggle("dark");
+}
+
 async function extractIngredients() {
     const text = document.getElementById("recipe").value.trim();
     const resultsBox = document.getElementById("results");
